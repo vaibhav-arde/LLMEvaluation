@@ -1,0 +1,3 @@
+from deepeval.metrics import HallucinationMetric
+
+# Add hallucination test here...
