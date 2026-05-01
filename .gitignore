@@ -12,3 +12,6 @@ wheels/
 .env*
 .env
 !.env.example
+
+# DeepEval configuration and cache
+.deepeval/
